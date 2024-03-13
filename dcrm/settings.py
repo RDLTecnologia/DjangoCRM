@@ -67,7 +67,7 @@ DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "RDLCRM",
-        "USER": "root",
+        "USER": "root", 
         "PASSWORD": "Eh-Tricolor1",
         "HOST": "localhost",
         "PORT": "3306"
